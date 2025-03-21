@@ -49,6 +49,7 @@ module "cloud_wan" {
     { location = "us-west-2" }
   ]
 }
+```
 
 ## 🔧 Input Variables
 

@@ -1,4 +1,4 @@
-# terraform-aws-cloud-wan
+# Terraform-AWS-Cloud-WAN
 
 A Terraform module to create an AWS Cloud WAN Global Network and Core Network, with support for attaching a network policy. This module supports both auto-generated basic policies and custom full policy documents.
 
